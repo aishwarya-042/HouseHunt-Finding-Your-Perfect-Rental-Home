@@ -79,4 +79,5 @@ module.exports = {
   handleStatusController,
   getAllPropertiesController,
   getAllBookingsController
+
 };
